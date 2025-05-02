@@ -10,7 +10,7 @@ A iniciativa visa contribuir com a **Meta 8.9 da ONU**, promovendo o turismo sus
 
 ![image](https://github.com/user-attachments/assets/942a8819-b1f4-4982-a33a-298e33ee907d)
 
-👉 [Visualizar site]([https://seulink.github.io](https://allisonavs.github.io/Projeto-Cultura-Conectada/))
+👉 [Visualizar site](https://allisonavs.github.io/Projeto-Cultura-Conectada/)
 
 ## 🧱 Tecnologias Utilizadas
 
